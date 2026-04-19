@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "hash": "d1504899",
   "configHash": "a7420704",
   "lockfileHash": "496f537a",
@@ -34,4 +35,12 @@
       "file": "chunk-GFWMZNU4.js"
     }
   }
+=======
+  "hash": "edfe012e",
+  "configHash": "d1eadde0",
+  "lockfileHash": "496f537a",
+  "browserHash": "4e5c5695",
+  "optimized": {},
+  "chunks": {}
+>>>>>>> Stashed changes
 }
